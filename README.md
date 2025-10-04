@@ -1,4 +1,3 @@
-Privacy Policy
 This privacy policy applies to the Rey WA Status Share & Save app (hereby referred to as "Application") for mobile devices that was created by Reyan Technologies (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
 
 
